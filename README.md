@@ -1,7 +1,7 @@
 # Distributed Metric Learning for Approximate Nearest Neighbor Search on Polygon Datasets
 
 ## Proposal
-- [Term Project Writeup (PDF)](writeup.pdf)
+- [Term Project Writeup (PDF)](https://github.com/ruban-s-utsa/hpml-term-project/blob/main/HPML%20Term%20Project.pdf)
 
 ## Milestones
 - Feb 25: Problem statement (proposal)
