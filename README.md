@@ -17,14 +17,9 @@ Evaluation includes scaling, communication/computation breakdown, and retrieval 
 
 ## References
 
-- Mai, G., et al. [Towards General-Purpose Representation Learning of Polygonal Geometries](https://arxiv.org/pdf/2209.15458)
-
-- Li, et al. [Latent Representation Learning for Geospatial Entities](https://dl.acm.org/doi/10.1145/3663474)
-
+- [Towards General-Purpose Representation Learning of Polygonal Geometries](https://arxiv.org/pdf/2209.15458)
+- [Latent Representation Learning for Geospatial Entities](https://dl.acm.org/doi/10.1145/3663474)
 - [Spatial Representation Learning for Geospatial Data](https://dl.acm.org/doi/10.1145/3681769.3698582)
-
 - [Geoinformatica Journal Paper on Spatial Representation Learning](https://link.springer.com/content/pdf/10.1007/s10707-025-00554-y.pdf)
-
 - [Recent Advances in Geospatial Representation Learning (2025)](https://arxiv.org/pdf/2506.05016)
-
-- Malkov, Y., & Yashunin, D. [Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs](https://arxiv.org/abs/1603.09320)
+- [Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs](https://arxiv.org/abs/1603.09320)
