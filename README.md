@@ -17,8 +17,14 @@ Evaluation includes scaling, communication/computation breakdown, and retrieval 
 
 ## References
 
-1. [PyTorch Distributed: Experiences on Accelerating Data Parallel Training](https://arxiv.org/abs/2006.15704)
-2. [PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel Training](https://www.vldb.org/pvldb/vol16/p3848-huang.pdf)
-3. [Local SGD Converges Fast and Communicates Little](https://arxiv.org/abs/1805.09767)
-4. [Scaling Distributed Machine Learning with the Parameter Server](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf)
-5. [Large Scale Distributed Deep Networks](https://www.cs.toronto.edu/~ranzato/publications/DistBeliefNIPS2012_withAppendix.pdf)
+- Mai, G., et al. [Towards General-Purpose Representation Learning of Polygonal Geometries](https://arxiv.org/pdf/2209.15458)
+
+- Li, et al. [Latent Representation Learning for Geospatial Entities](https://dl.acm.org/doi/10.1145/3663474)
+
+- [Spatial Representation Learning for Geospatial Data](https://dl.acm.org/doi/10.1145/3681769.3698582)
+
+- [Geoinformatica Journal Paper on Spatial Representation Learning](https://link.springer.com/content/pdf/10.1007/s10707-025-00554-y.pdf)
+
+- [Recent Advances in Geospatial Representation Learning (2025)](https://arxiv.org/pdf/2506.05016)
+
+- Malkov, Y., & Yashunin, D. [Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs](https://arxiv.org/abs/1603.09320)
